@@ -14,7 +14,4 @@
 - Follow [general Git & GitHub guidelines](https://github.com/ittovate/.github/blob/main/docs/git-management-guidelines.md).
 ### 📃 Tasks
 - [demo-redis-crud](https://github.com/ittovate/.github/blob/main/tasks/04.demo-redis-crud.md)
-- [demo-cassandra-crud](https://github.com/ittovate/.github/blob/main/tasks/05.demo-cassandra-crud.md)
 - [demo-kafka](https://github.com/ittovate/.github/blob/main/tasks/09.demo-kafka.md)
-- [demo-stripe-manager](https://github.com/ittovate/.github/blob/main/tasks/10.demo-stripe-manager.md)
-- [demo-chatbot](https://github.com/ittovate/.github/blob/main/tasks/11.demo-chatbot.md)
