@@ -12,6 +12,3 @@
 
 # 🙋‍♂️ Contribution
 - Follow [general Git & GitHub guidelines](https://github.com/ittovate/.github/blob/main/docs/git-management-guidelines.md).
-### 📃 Tasks
-- [demo-redis-crud](https://github.com/ittovate/.github/blob/main/tasks/04.demo-redis-crud.md)
-- [demo-kafka](https://github.com/ittovate/.github/blob/main/tasks/09.demo-kafka.md)
