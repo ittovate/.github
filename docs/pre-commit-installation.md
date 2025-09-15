@@ -4,8 +4,8 @@
 
 # 🚀 Usage
 1. Copy [starter file](https://github.com/ittovate/.github/blob/main/config/.pre-commit.yaml) to `config` directory in project root.
-2. Install hooks: `pre-commit install --config ./config/.pre-commit.yaml`
-3. Test hooks without committing: `pre-commit run --config ./config/.pre-commit.yaml --all-files`
+2. Install hooks: `pre-commit install --config ./config/pre-commit.yaml`
+3. Test hooks without committing: `pre-commit run --config ./config/pre-commit.yaml --all-files`
 4. Now, installed hooks should run each time you try to commit.
 
 # ✅ Starter Hooks
